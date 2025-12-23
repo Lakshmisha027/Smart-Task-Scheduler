@@ -65,5 +65,6 @@ Collections, Swing UI, Event Handling, Serialization, Multithreading, Headless M
 <img width="1909" height="740" alt="HIGH PRIORITY TASKS" src="https://github.com/user-attachments/assets/efd1577b-ccd9-4728-a5ef-b504349085b7" />
 
 
-### Todays Taskd
+### Todays Tasks
 <img width="1910" height="699" alt="TODAYS TASKS" src="https://github.com/user-attachments/assets/06664fa5-b1aa-42c2-9301-e396d39b3ab4" />
+
